@@ -8,7 +8,7 @@ This repo is created for our ***IEEE Transactions on Medical Imaging (IEEE TMI, 
 
 The common ultrasound modalities include B-mode ultrasound (BUS), color Doppler flow imaging (CDFI), ultrasound elastography (UE) and dynamic contrast-enhanced ultrasound (DCE-US). The fusion of them is a challenges for clinicians and they cannot give satisfactory diagnosis performance on some hard problems. And there is lack of specific methods that consider the characteristics of ultrasound modalities. 
 
-## Our Solution
+## Our Methods
 
 We proposed the **M**ulti-**S**tep **M**odality **F**usion **N**etwork to fuse and analyse ultrasound modalities rationally. Specifically, we adopted:
  - grouping and step-by-step fusion strategy
